@@ -1,1 +1,1 @@
-#test
+Just a simple find the min algorithim using user input into variables num1, num2, and num3. Uses only if else statements to check for the smallest number between the 3.
